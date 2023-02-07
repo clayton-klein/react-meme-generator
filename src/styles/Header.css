@@ -1,0 +1,31 @@
+header {
+  align-items: center;
+  background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+  border-radius: 6px 6px 0 0;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.header__logo {
+  margin-left: 1.25rem;
+}
+
+.header__title {
+  color: white;
+  display: inline-block;
+  font-family: "Karla", sans-serif;
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: -0.1rem;
+  margin-left: 0.5rem;
+  margin-right: auto;
+}
+
+.header__subtitle {
+  color: white;
+  display: inline-block;
+  font-family: "Inter", sans-serif;
+  font-size: 0.75rem;
+  font-weight: 500;
+  margin: 0.2rem 1.25rem 0 0;
+}
