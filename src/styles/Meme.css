@@ -1,8 +1,14 @@
+.memeContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin: 2.25rem;
+}
+
 .memeForm {
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  margin: 2.25rem 2.25rem 0 2.25rem;
 }
 
 .form__topText,
@@ -31,4 +37,8 @@
   font-weight: 700;
   letter-spacing: -0.05rem;
   padding: 10px;
+}
+
+.memeContainer__memeImg {
+  margin: 1rem 0 2rem 0;
 }
