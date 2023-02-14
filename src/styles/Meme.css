@@ -42,10 +42,11 @@
 
 .memeImgContainer {
   position: relative;
+  margin-bottom: 0;
 }
 
 .memeImgContainer__memeImg {
-  margin: 1rem 0 3rem 0;
+  margin: 1rem 0 1rem 0;
   width: 100%;
 }
 
@@ -68,4 +69,5 @@
 
 .memeImgContainer__text--bottom {
   bottom: 0;
+  margin-bottom: 0;
 }

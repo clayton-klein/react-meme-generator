@@ -1,0 +1,32 @@
+footer {
+    align-items: center;
+    background: linear-gradient(90.41deg, #711f8d 1.14%, #a818da 100%);
+    border-radius: 0 0 6px 6px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    justify-content: center;
+}
+
+footer p {
+    font-size: 12px;
+    margin: 0;
+    padding-top: 10px;
+}
+
+.iconsContainer {
+    align-items: center;
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    padding-bottom: 5px;
+}
+
+.iconsContainer--github {
+    width: 31px;
+}
+
+.iconsContainer--linkedin {
+    width: 24px;
+}
