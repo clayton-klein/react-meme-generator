@@ -1,3 +1,8 @@
+**Status: finalizado.**
+<br>
+<br>
+<br>
+
 # React Meme Generator
 
 Este foi o quinto projeto desenvolvido através do curso **React Course - Beginner's Tutorial for React JavaScript Library [2022]**
